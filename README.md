@@ -1,9 +1,9 @@
 
-👋 Hello World! I'm [KRITI], a passionate software enthusiast currently pursuing a B.Tech in Computer Science Engineering. 🚀
+👋 Hello World! I'm <h1> Kriti </h1>, a passionate software enthusiast currently pursuing a B.Tech in Computer Science Engineering. 🚀
 
 **About Me:**
 - 🎓 Pursuing B.Tech in CSE with a focus on Full Stack Development.
-- 💻 Proficient in C++, C, Python, Java, HTML, CSS, and JavaScript.
+- 💻 Proficient in <h1> C++, C, Python, Java, HTML, CSS, and JavaScript </h1>.
 - 🌐 Familiar with Angular, React, and Node.js.
 - 🚀 Aspiring to be a top-notch Software Developer by 2026.
 
