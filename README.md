@@ -1,40 +1,53 @@
+👋 Hello World! I'm <h1>Kriti</h1>, a Passionate Software Enthusiast!
+About Me:
+🎓 Education: Pursuing a B.Tech in Computer Science Engineering with a specialization in Full Stack Development.
+💻 Skills: Proficient in <h1>C++, C, Python, Java, HTML, CSS, and JavaScript</h1>.
+🌐 Frameworks & Libraries: Familiar with Angular, React, and Node.js.
+🚀 Career Goal: Aspiring to become a top-notch Software Developer by 2026.
+Current Journey:
+📚 Full Stack Focus: Deep diving into Full Stack Development as my minor.
+🛠️ Open Source Contributions: Actively contributing to open-source projects and building an impressive coding portfolio.
+🌐 Web Technologies Exploration: Exploring the limitless possibilities of web technologies.
+Future Goals:
+🚀 Professional Growth: Striving to become a skilled and innovative Software Developer.
+🔍 Emerging Technologies: Eager to explore and contribute to cutting-edge projects.
+🌐 Continuous Learning: Committed to staying updated with industry trends.
+Projects & Contributions:
+💻 Check out my latest projects on GitHub.
+🌐 Visit my personal portfolio at kriti.dev.
+Let's Collaborate:
+🤝 Collaboration: Open to collaborations, discussions, and contributions.
+💬 Connect: If you share a passion for coding or have interesting projects in mind, let's connect!
+Contact Me:
+📧 Email: kriti@example.com
+💼 LinkedIn: 👋 Hello World! I'm <h1>Kriti</h1>, a Passionate Software Enthusiast!
+About Me:
+🎓 Education: Pursuing a B.Tech in Computer Science Engineering with a specialization in Full Stack Development.
+💻 Skills: Proficient in <h1>C++, C, Python, Java, HTML, CSS, and JavaScript</h1>.
+🌐 Frameworks & Libraries: Familiar with Angular, React, and Node.js.
+🚀 Career Goal: Aspiring to become a top-notch Software Developer by 2026.
+Current Journey:
+📚 Full Stack Focus: Deep diving into Full Stack Development as my minor.
+🛠️ Open Source Contributions: Actively contributing to open-source projects and building an impressive coding portfolio.
+🌐 Web Technologies Exploration: Exploring the limitless possibilities of web technologies.
+Future Goals:
+🚀 Professional Growth: Striving to become a skilled and innovative Software Developer.
+🔍 Emerging Technologies: Eager to explore and contribute to cutting-edge projects.
+🌐 Continuous Learning: Committed to staying updated with industry trends.
+Projects & Contributions:
+💻 Check out my latest projects on GitHub.
+🌐 Visit my personal portfolio at kriti.dev.
+Let's Collaborate:
+🤝 Collaboration: Open to collaborations, discussions, and contributions.
+💬 Connect: If you share a passion for coding or have interesting projects in mind, let's connect!
+Contact Me:
+💼 LinkedIn: <a href="https://www.linkedin.com/in/kriti-singh-a89644252/">Kriti's LinkedIn</a>
+🐦 Twitter: @yesiamkriti
+Happy Coding! 🚀👨‍💻
 
-👋 Hello World! I'm <h1> Kriti </h1>, a passionate software enthusiast currently pursuing a B.Tech in Computer Science Engineering. 🚀
-
-**About Me:**
-- 🎓 Pursuing B.Tech in CSE with a focus on Full Stack Development.
-- 💻 Proficient in <h1> C++, C, Python, Java, HTML, CSS, and JavaScript </h1>.
-- 🌐 Familiar with Angular, React, and Node.js.
-- 🚀 Aspiring to be a top-notch Software Developer by 2026.
-
-**Current Journey:**
-- 📚 Currently diving deep into the world of Full Stack Development as my minor.
-- 🛠️ Actively contributing to open-source projects and building my coding portfolio.
-- 🌐 Exploring the limitless possibilities of web technologies.
-
-**Future Goals:**
-- 🚀 Striving to become a skilled and innovative Software Developer.
-- 🔍 Eager to explore emerging technologies and contribute to cutting-edge projects.
-- 🌐 Committed to continuous learning and staying updated with industry trends.
-
-**Let's Collaborate:**
-- 🤝 Open to collaborations, discussions, and contributions.
-- 💬 If you share a passion for coding or have interesting projects in mind, let's connect!
-
-**Happy Coding! 🚀👨‍💻**
 
 
-<!--
-**yesiamkriti/yesiamkriti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐦 Twitter: @yesiamkriti
+Happy Coding! 🚀👨‍💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
