@@ -45,7 +45,7 @@
   <a href="https://twitter.com/yesiamkriti" target="_blank">
     <img src="https://img.shields.io/twitter/follow/yesiamkriti?label=Follow&style=social" alt="Twitter Follow">
   </a>
-  <a href="https://www.linkedin.com/in/yesiamkriti/" target="_blank">
+  <a href="https://www.linkedin.com/in/kriti-singh-a89644252/" target="_blank">
     <img src="https://img.shields.io/badge/-Kriti-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
